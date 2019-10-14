@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uuyuzohbe.mattloveslinz.com/sitemap.xml
